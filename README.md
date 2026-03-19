@@ -182,6 +182,12 @@ plt.show()
 <img width="881" height="475" alt="image" src="https://github.com/user-attachments/assets/c547d4b2-3885-45c6-8b51-c640ef0fc15d" />
 
 
+
+
+
+
+
+
 ## RESULT
 
 The bivariate analysis shows a strong positive correlation between daily COVID-19 cases and deaths.
